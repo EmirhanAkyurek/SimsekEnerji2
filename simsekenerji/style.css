@@ -1,0 +1,236 @@
+.navbar {
+    background: #085E7D !important;
+}
+
+.bg-dark {
+    background: #085E7D !important;
+}
+
+
+#map {
+    height: 450px;
+}
+
+@media (min-width: 768px) { 
+    .card-img-top {
+        height: 32vh;
+    }
+
+    #map {
+        height: 100%;
+    }
+ }
+
+.kategori{
+    background-color: #085E7D;
+}
+
+.card-img-top2 {
+    height: 22vh;
+}
+
+.card{
+    padding: 0;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+.card .img-wrap{
+    height: 250px;
+    padding: .5rem;
+}
+.card .img{
+    height: 100%;
+    width: auto;
+    max-width: 100%;
+    object-fit: cover;
+}
+
+/* footer */
+.fa-youtube{
+    font-size: 30px;
+    color: white;
+}
+.fa-youtube:hover{
+    color: #c75b3b;
+}
+.fa-facebook{
+    font-size: 30px;
+    color: white;
+}
+.fa-facebook:hover{
+    color: #c75b3b;
+}
+.fa-instagram{
+    font-size: 30px;
+    color: white;
+}
+.fa-instagram:hover{
+    color: #c75b3b;
+}
+/* footer */
+
+.baslik{
+    color: #085E7D;
+}
+
+.telefon{
+    padding: 0;
+}
+
+#backtotop{
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+}
+
+#backtotop i{
+    color: #F66B0E;
+    font-size: 45px;
+    transition: color .6s;
+}
+
+#backtotop i:hover{
+    color: #c75b3b;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.ust{
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    width: 100%;
+}
+
+ /* card */
+.card .img-wrap {
+    height: 240px;
+}
+
+.img-wrap {
+    position: relative;
+    display: block;
+    padding: 1rem;
+    text-align: center;
+}
+
+.card .img-wrap img {
+    height: 100%;
+    width: auto;
+    max-width: 100%;
+    object-fit: cover;
+}
+
+
+
+.card .title {
+    display: block;
+    text-decoration: none;
+    color: #51585e;
+}
+
+.card .info-wrap {
+    padding: 1rem 1.2rem;
+}
+
+.bosluksilsag{
+    padding-right: 0;
+}
+.bosluksil{
+    padding: 0;
+}
+.boslukSol{
+    margin-left: 3px;
+}
+
+.mavi{
+    background-color: #085E7D;
+}
+.mavi:hover{
+    background-color: #085E7D;
+    color: #c75b3b;
+}
+
+.mavi2:hover{
+    color:#1487b1;
+}
+
+.beyaz{
+    color: white;
+}
+
+.beyaz:hover{
+    color: #c75b3b;
+}
+
+.alt{
+    position: fixed;
+    width: 100%; 
+    bottom: 0;
+    margin: 0;
+    right: 0;
+}
+
+.logo{
+    height: 40px;
+    width: 40px;
+}
+
+.card-shadow{ /*cardlari canlandirma
+    /* position:relative;
+    top:0; */
+    transition:all .2s;
+}
+.card-shadow:hover{
+    /* top: -10px; */
+    /* transform: translate(10px , -10px); */
+    transform: translateY(-10px);
+}
+.efekt{
+    color: #085E7D;
+}
+#map {
+    height: 100%;
+    /* The height is 400 pixels */
+    width: 100%;
+    /* The width is the width of the web page */
+  }
+  .lobster{
+    font-family: 'Lobster', cursive;
+  }
+  .oleo{
+    font-family: 'Oleo Script', cursive;
+  }
+
+.girisButton{
+    color: white;
+    text-decoration:none
+}
+.girisButton:hover{
+    color: white;
+    text-decoration:none
+}
+.kayitButton{
+    color: white;
+    text-decoration:none
+}
+.kayitButton:hover{
+    color: white;
+    text-decoration:none
+}
+
+.margin-0{
+    margin-left: 0;
+}
+
+.text-paket{
+    color: #F66B0E;
+}
+.renk{
+    background-color: #085E7D;
+}
+.p-right{
+    padding-right: 0;
+}
